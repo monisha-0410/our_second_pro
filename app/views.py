@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 # Create your views here.
-def macha(request):
-    return render(request, 'macha.html')
+def sample1(request):
+    return render(request, 'sample1.html')
